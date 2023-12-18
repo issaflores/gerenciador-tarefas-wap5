@@ -41,7 +41,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Como ficou o Projeto 
 
 <p align="center">
-  <img src="https://github.com/issaflores/gerenciador-tarefas-wap5/blob/main/assets/97623561/7d3b0e3e-cafa-4b94-8bbb-b7b40ad0d3db.png" width="400" alt="Print Gerenciador Meta" />
+  <img src="https://github.com/issaflores/gerenciador-tarefas-wap5/blob/main/assets/97623561/7d3b![print-gerenciador -meta](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/ee780336-0825-4acb-b059-92ef4249d19e)
+0e3e-cafa-4b94-8bbb-b7b40ad0d3db.png" width="400" alt="Print Gerenciador Meta" />
   <img src="https://github.com/issaflores/gerenciador-tarefas-wap5/blob/main/assets/97623561/c029edb9-b37f-4f28-a099-bcd5cfcebf2c.png" width="400" alt="Novo Hábito" />
 </p>
 

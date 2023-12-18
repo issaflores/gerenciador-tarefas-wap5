@@ -39,11 +39,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Como ficou o Projeto 
-| Coluna 1 | Coluna 2 |
-| -------- | -------- |
+
 (![print-gerenciador -meta](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/56b20fb8-8078-48c0-bcf3-ffe2e5086a57)
-) (![novo habito](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/9449e057-1cc2-471b-af29-21f263744824)
-) |
+(![novo habito](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/9449e057-1cc2-471b-af29-21f263744824)
+
 
 
 

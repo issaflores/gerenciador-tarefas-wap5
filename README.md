@@ -40,8 +40,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Como ficou o Projeto 
 
-(![print-gerenciador -meta](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/56b20fb8-8078-48c0-bcf3-ffe2e5086a57)
-(![novo habito](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/9449e057-1cc2-471b-af29-21f263744824)
+![print-gerenciador -meta](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/56b20fb8-8078-48c0-bcf3-ffe2e5086a57)
+![novo habito](https://github.com/issaflores/gerenciador-tarefas-wap5/assets/97623561/9449e057-1cc2-471b-af29-21f263744824)
 
 
 
